@@ -19,9 +19,11 @@ const About = ({ handleContactClick }) => {
                 Why Choose Our Firm?
               </h2>
               <p className="text-xl text-zinc-700 leading-relaxed">
-                With over 25 years of combined experience, our legal team has
-                successfully represented thousands of clients across diverse
-                practice areas.
+                At Legal Solution, our mission is to represent our clients with
+                integrity, professionalism, and compassion. We are dedicated to
+                achieving justice and fairness in every case we handle, ensuring
+                that our clients receive the care and support they deserve
+                during challenging legal matters.
               </p>
             </div>
 
@@ -95,7 +97,7 @@ const About = ({ handleContactClick }) => {
           >
             <img
               alt="Legal team reviewing documents"
-              className="rounded-2xl shadow-2xl w-full h-[500px] object-cover"
+              className="rounded-2xl shadow-2xl w-full h-[350px] md:h-[500px] object-cover"
               src="/logo-with-bg.jpeg"
             />
             <div className="absolute inset-0 bg-gradient-to-tr from-cyan-500/10 to-transparent rounded-2xl"></div>

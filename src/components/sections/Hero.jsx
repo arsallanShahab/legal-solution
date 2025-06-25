@@ -23,7 +23,7 @@ const Hero = ({ stats, handleConsultationClick, handleContactClick }) => {
               >
                 <Award className="h-4 w-4 text-white mr-2" />
                 <span className="text-white text-sm font-medium">
-                  Award-Winning Legal Team
+                  All Legal Problems have Solution
                 </span>
               </motion.div>
 
@@ -33,11 +33,14 @@ const Hero = ({ stats, handleConsultationClick, handleContactClick }) => {
               </h1>
 
               <p className="text-xl text-zinc-600 leading-relaxed">
-                Advocating for your Rights and life's complex with integrity and
-                results. Protecting your rights with unwavering dedication. Our
-                experienced legal team provides comprehensive representation
-                across Criminal Law, Family Law, Business Law, Civil Law, and
-                Estate Planning.
+                Legal Solution is a reputable law firm offering legal services
+                for all types of civil, criminal matters, company matters, writ
+                petitions, patent and trade mark in Calcutta high court and all
+                other courts of West Bengal and Supreme court of India .Our
+                mission is to provide expert legal advice, personalized service,
+                and dedicated support to each client. With a focus on delivering
+                the best outcomes, we are committed to upholding the highest
+                standards of legal practice.
               </p>
             </div>
 
@@ -69,7 +72,7 @@ const Hero = ({ stats, handleConsultationClick, handleContactClick }) => {
             <div className="relative z-10">
               <img
                 alt="Professional lawyers in modern office"
-                className="rounded-2xl shadow-2xl w-full h-[600px] object-cover"
+                className="rounded-2xl shadow-2xl w-full h-[600px] object-cover object-top"
                 src="/hero-bg.jpeg"
               />
             </div>
