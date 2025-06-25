@@ -20,8 +20,8 @@ const ContactCTA = ({ handleConsultationClick, handleContactClick }) => {
                   Ready to Get Started?
                 </h2>
                 <p className="text-xl text-zinc-700">
-                  Contact us today for a free consultation. Let's discuss how we
-                  can help protect your rights and interests.
+                  Contact us today to Schedule a consultation. Let's discuss how
+                  we can help protect your rights and interests.
                 </p>
               </div>
 
@@ -69,7 +69,7 @@ const ContactCTA = ({ handleConsultationClick, handleContactClick }) => {
                     size="lg"
                     className="w-full bg-black hover:bg-black/80 text-white font-semibold"
                   >
-                    Free Consultation
+                    Schedule Consultation
                   </Button>
                 </a>
               </div>

@@ -56,7 +56,7 @@ const Hero = ({ stats, handleConsultationClick, handleContactClick }) => {
                   className="bg-black hover:bg-black/80 rounded-3xl text-white font-semibold px-8 py-3"
                 >
                   <Phone className="mr-2 h-5 w-5" />
-                  Free Consultation
+                  Schedule Consultation
                   <ChevronRight className="ml-2 h-5 w-5" />
                 </Button>
               </a>

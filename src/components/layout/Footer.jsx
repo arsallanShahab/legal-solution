@@ -9,7 +9,9 @@ const Footer = ({ handleContactClick }) => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Scale className="h-8 w-8 text-[#2e2861]" />
-              <span className="text-xl font-bold text-[#2e2861]">LegalPro</span>
+              <span className="text-xl font-bold text-[#2e2861]">
+                Legal Solution
+              </span>
             </div>
             <p className="text-zinc-600">
               Expert legal representation you can trust. Protecting your rights
@@ -51,14 +53,7 @@ const Footer = ({ handleContactClick }) => {
                   About
                 </a>
               </li>
-              <li>
-                <a
-                  href="#testimonials"
-                  className="hover:text-[#2e2861] transition-colors"
-                >
-                  Testimonials
-                </a>
-              </li>
+              <li></li>
               <li>
                 <button
                   onClick={handleContactClick}
