@@ -11,6 +11,7 @@ export const practiceAreas = [
       "Drug Crimes",
       "Assault & Battery",
       "White Collar Crimes",
+      "Bail Matters",
     ],
   },
   {
@@ -47,6 +48,7 @@ export const practiceAreas = [
       "Property Disputes",
       "Contract Disputes",
       "Civil Litigation",
+      "Writ Petitions",
     ],
   },
   {
@@ -58,8 +60,8 @@ export const practiceAreas = [
       "Wills & Trusts",
       "Probate",
       "Asset Protection",
-      "Elder Lawdeed of conveyance",
-      "Power of attorney",
+      "Deed of Conveyance",
+      "Power of Attorney",
       "Any kinds of agreement",
     ],
   },
