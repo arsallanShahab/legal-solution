@@ -59,6 +59,8 @@ export const practiceAreas = [
       "Probate",
       "Asset Protection",
       "Elder Lawdeed of conveyance",
+      "Power of attorney",
+      "Any kinds of agreement",
     ],
   },
 ];
