@@ -5,47 +5,58 @@ export const practiceAreas = [
     icon: Shield,
     title: "Criminal Law",
     description:
-      "Expert defense representation for all criminal matters, from misdemeanors to serious felonies.",
+      "Expert criminal defense representation in Baranagar and Kolkata. Our experienced criminal lawyers provide skilled defense for all criminal matters, from misdemeanors to serious felonies.",
     features: [
-      "DUI Defense",
-      "Drug Crimes",
-      "Assault & Battery",
+      "DUI Defense in Kolkata",
+      "Drug Crimes Defense",
+      "Assault & Battery Cases",
       "White Collar Crimes",
-      "Bail Matters",
+      "Bail Matters in North Kolkata",
+      "Criminal Appeals",
     ],
+    seoKeywords:
+      "Criminal lawyer Kolkata, Criminal defense Baranagar, Criminal law firm North Kolkata",
   },
   {
     icon: Users,
     title: "Family Law",
     description:
-      "Compassionate legal guidance through life's most challenging family transitions.",
+      "Compassionate family law services in Baranagar, Kolkata. Our family lawyers provide expert legal guidance through life's most challenging family transitions and matrimonial disputes.",
     features: [
-      "Divorce & Separation",
-      "Child Custody",
-      "Adoption",
+      "Divorce & Separation in Kolkata",
+      "Child Custody Cases",
+      "Adoption Services",
       "Domestic Relations",
+      "Matrimonial Disputes",
+      "Maintenance Cases",
     ],
+    seoKeywords:
+      "Family lawyer Kolkata, Divorce lawyer Baranagar, Matrimonial lawyer North Kolkata",
   },
   {
     icon: Building,
     title: "Business Law",
     description:
-      "Comprehensive legal solutions to protect and grow your business interests.",
+      "Comprehensive business law solutions for companies in Kolkata and Baranagar. Our corporate lawyers protect and grow your business interests with expert legal services.",
     features: [
-      "Contract Law",
+      "Contract Law in Kolkata",
       "Business Formation",
       "Mergers & Acquisitions",
       "Employment Law",
+      "Corporate Compliance",
+      "Commercial Litigation",
     ],
+    seoKeywords:
+      "Business lawyer Kolkata, Corporate law firm Baranagar, Commercial lawyer North Kolkata",
   },
   {
     icon: Scale,
     title: "Civil Law",
     description:
-      "Skilled advocacy for civil disputes and personal injury claims.",
+      "Skilled civil litigation advocacy in Baranagar and Kolkata. Our civil lawyers handle property disputes, personal injury claims, and various civil matters with expertise.",
     features: [
-      "Personal Injury",
-      "Property Disputes",
+      "Personal Injury Cases",
+      "Property Disputes in Kolkata",
       "Contract Disputes",
       "Civil Litigation",
       "Writ Petitions",

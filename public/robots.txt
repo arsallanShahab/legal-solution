@@ -1,0 +1,35 @@
+User-agent: *
+Allow: /
+
+# Allow all search engines to crawl the site
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Disallow crawling of admin or private areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.pdf$
+
+# Crawl delay for polite crawling
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://www.legalsolution.firm.in/sitemap.xml
+
+# Additional directives for better SEO
+# Allow crawling of CSS and JS files
+# Allow: /src/
+# Allow: /public/
+# Allow: *.css
+# Allow: *.js
+# Allow: *.png
+# Allow: *.jpg
+# Allow: *.jpeg
+# Allow: *.gif
+# Allow: *.svg
